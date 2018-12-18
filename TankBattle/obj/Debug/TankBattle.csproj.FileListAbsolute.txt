@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\Images\background1.jpg
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\Images\background2.jpg
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\Images\background3.jpg
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\Images\background4.jpg
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\LICENSE.txt
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\TankBattle.exe
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\bin\Debug\TankBattle.pdb
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.GameForm.resources
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.IntroForm.resources
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.exe
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.pdb
+C:\Users\Windows\Desktop\REAL 201\CAB201Assignment\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
